@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Major Projects & Experience"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Hello This is my front page. This website is still a work in progress
+
+
