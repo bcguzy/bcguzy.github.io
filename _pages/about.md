@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brandon G's Portfolio and Professional Website"
+title: "Major Projects & Experience"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
