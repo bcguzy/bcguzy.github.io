@@ -4,7 +4,7 @@ main:
     url: /projects/
 
   - title: "Ongoing Projects"
-    url: /current-proj/      
+    url: /ongoing/      
     
   - title: "Contact"
     url: /contact/
