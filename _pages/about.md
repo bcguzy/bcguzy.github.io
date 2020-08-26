@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! This website is primarily to show off my personal projects. If you need more information about me or would like to request a resume, email me at [brandon.guzy@stonybrook.edu](brandon.guzy@stonybrook.edu)
+Welcome to my website! This website is primarily to show off my personal projects. If you need more information about me or would like to request a resume, email me at [brandon.guzy@stonybrook.edu](mailto:brandon.guzy@stonybrook.edu)
 
 # Summer 2020: APIs and Hardware Applications
 I spent the summer of 2020 learning how to use APIs. I love the idea of taking the vast amounts of information from the internet and applying it to something new or interesting. I started with the basics of a simple weather website and worked my way up to a plant sprinkler that can adapt to the weather.
