@@ -22,7 +22,7 @@ This project is a button hosted on the local network that can be used to turn on
 This was my main project during the summer and combined the knowledge gained from previous API and hardware projects this summer. It takes rainfall data from the OpenWeatherMap API to determine if a plant needs more water that day or not. I leveraged the deep sleep functionality of the ESP8266 to have a timed wake every morning so that it did not use any unnecessary power throughout the day.  
 ## [Responsive Weather](https://bcguzy.github.io/Brandons-Responsive-Weather/)
 ![weather image](https://bcguzy.github.io/images/weatherExample.PNG)
-Summer 2020 - [Source Code](https://github.com/bcguzy/Brandons-Responsive-Weather) - [View Website Here](https://bcguzy.github.io/Brandons-Responsive-Weather/)  
+[Source Code and Documentation](https://github.com/bcguzy/Brandons-Responsive-Weather) - [View Website Here](https://bcguzy.github.io/Brandons-Responsive-Weather/)  
 I started this project as an experiment and exploration into web design and APIs. The site uses bootstrap CSS, openweathermap API for the weather data, and owfont for the icons. During the process of making this website, I learned a lot about using REST APIs, responsive web design, JavaScript, and HTML. My knowledge of APIs and HTML gained from this project helped me with future projects in the Summer.
 
 

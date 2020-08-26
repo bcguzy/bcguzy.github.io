@@ -10,10 +10,13 @@ This was my main project during the summer and combined the knowledge gained fro
 
 ## WiFi Button Sprinkler
 ![A gif of the project in action](https://github.com/bcguzy/WebButton_Sprinkler/raw/master/media/ezgif-7-719b561e50d5.gif)  
-[Source Code and Documentation](https://github.com/bcguzy/WebButton_Sprinkler)  
+Summer 2020 - [Source Code and Documentation](https://github.com/bcguzy/WebButton_Sprinkler)  
 This project is a button hosted on the local network that can be used to turn on and off a sprinkler remotely. This project helped me get familiar with connecting the ESP8266 to WiFi and successfully powering the solenoid valve using the motor shield. All of this knowledge was used in the WiFi Weather Sprinkler project.
 
 ## [Responsive Weather](https://bcguzy.github.io/Brandons-Responsive-Weather/)
 ![weather image](https://bcguzy.github.io/images/weatherExample.PNG)
 Summer 2020 - [Source Code and Documentation](https://github.com/bcguzy/Brandons-Responsive-Weather) - [View Website Here](https://bcguzy.github.io/Brandons-Responsive-Weather/)  
-I started this project as an experiment and exploration into web design and APIs. The site uses bootstrap CSS, openweathermap API for the weather data, and owfont for the icons. During the process of making this website, I learned a lot about using REST APIs, responsive web design, JavaScript, and HTML. My knowledge of APIs and HTML gained from this project helped me with future projects in the Summer.
+I started this project as an experiment and exploration into web design and APIs. The site uses bootstrap CSS, openweathermap API for the weather data, and owfont for the icons. During the process of making this website, I learned a lot about using REST APIs, responsive web design, JavaScript, and HTML. My knowledge of APIs and HTML gained from this project helped me with future projects in the Summer.  
+  
+## Digital Clock
+This project was made as part of my ESE123 Intro to Computer & Electrical Engineering class at Stony Brook. It is a digital clock with alarm and USB power supply for charging a phone or other device. This project was a great introduction to electronics; I learned about electronic components like resistors, LEDs, capacitors, and integrated circuits. I also was able to work on my soldering skills and programming skills with the project.
