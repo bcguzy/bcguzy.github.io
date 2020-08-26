@@ -1,9 +1,8 @@
 ---
-title: "Completed Projects"
 permalink: /projects/
 author_profile: true
 ---
-
+# Completed Projects
 ## WiFi Weather Sprinkler  
 ![a picture of the project's board](https://github.com/bcguzy/Weather_Sprinkler/blob/master/photos/wiring.jpg?raw=true)  
 Summer 2020 - [Source Code and Documentation](https://github.com/bcguzy/Weather_Sprinkler)  
