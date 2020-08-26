@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Completed Projects"
 permalink: /projects/
 author_profile: true
@@ -8,7 +7,7 @@ author_profile: true
 ## WiFi Weather Sprinkler  
 ![a picture of the project's board](https://github.com/bcguzy/Weather_Sprinkler/blob/master/photos/wiring.jpg?raw=true)  
 Summer 2020 - [Source Code and Documentation](https://github.com/bcguzy/Weather_Sprinkler)  
-This was my main project during the summer and combined the knowledge gained from previous API and hardware projects this summer. It takes rainfall data from the OpenWeatherMap API to determine if a plant needs more water that day or not. I used an ESP8266 NodeMCU, the motor shield for the ESP8266 for easy power delivery, a 9 volt battery for a power source, and a 9v solenoid valve to control water flow. This could be further miniturized by using only the ESP8266 chip without the development board and using a small power management board instead of the full motor shield.
+This was my main project during the summer and combined the knowledge gained from previous API and hardware projects this summer. It takes rainfall data from the OpenWeatherMap API to determine if a plant needs more water that day or not. I used an ESP8266 NodeMCU, the motor shield for the ESP8266 for easy power delivery, a 9 volt battery for a power source, and a 9v solenoid valve to control water flow. This could be further miniaturized by using only the ESP8266 chip without the development board and using a small power management board instead of the full motor shield.
 
 ## WiFi Button Sprinkler
 ![A gif of the project in action](https://github.com/bcguzy/WebButton_Sprinkler/raw/master/media/ezgif-7-719b561e50d5.gif)  
