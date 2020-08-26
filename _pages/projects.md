@@ -19,4 +19,6 @@ Summer 2020 - [Source Code and Documentation](https://github.com/bcguzy/Brandons
 I started this project as an experiment and exploration into web design and APIs. The site uses bootstrap CSS, openweathermap API for the weather data, and owfont for the icons. During the process of making this website, I learned a lot about using REST APIs, responsive web design, JavaScript, and HTML. My knowledge of APIs and HTML gained from this project helped me with future projects in the Summer.  
   
 ## Digital Clock
+![picture of ESE123 Clock](https://github.com/bcguzy/bcguzy.github.io/blob/master/images/digitalClock.jpg?raw=true)  
+Fall 2019  
 This project was made as part of my ESE123 Intro to Computer & Electrical Engineering class at Stony Brook. It is a digital clock with alarm and USB power supply for charging a phone or other device. This project was a great introduction to electronics; I learned about electronic components like resistors, LEDs, capacitors, and integrated circuits. I also was able to work on my soldering skills and programming skills with the project.
