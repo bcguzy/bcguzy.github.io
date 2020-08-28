@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="google-site-verification" content="yOlwrA_mVCsBFMBgOD78EjiSUmFaUiuXD_rvQ17feyo" />
 
 Welcome to my website! This website is primarily to show off my personal projects. If you need more information about me or would like to request a resume, email me at [brandon.guzy@stonybrook.edu](mailto:brandon.guzy@stonybrook.edu)
 
