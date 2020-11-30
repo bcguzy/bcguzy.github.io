@@ -3,6 +3,11 @@ title: Completed Projects
 permalink: /projects/
 author_profile: true
 ---
+## AVR Thermometer
+![A picture of the 4809 Thermometer](https://github.com/bcguzy/bcguzy.github.io/blob/master/images/4809_thermometer.jpg?raw=true)  
+Fall 2020  
+This project was made as part of my Embedded Systems class and uses the ATmega 4809 coded with the AVR instruction set. This project involved using many parts of the ATmega 4809 microprocessor including the analog to digital converter for the temperature sensor, the timer/counters on the chip for interrupts, and of course utilizing the I/O pins. I also learned about reading and using documentation for microprocessors, their instruction sets, and basic components for the circuit. Subroutines provided from the manufacturer were researched and used for multiplication and division of the ADC results to convert them to degrees Celsius. This project made me much more confident in working with embedded systems and using technical documentation.
+
 ## WiFi Weather Sprinkler  
 ![a picture of the project's board](https://github.com/bcguzy/Weather_Sprinkler/blob/master/photos/wiring.jpg?raw=true)  
 Summer 2020 - [Source Code and Documentation](https://github.com/bcguzy/Weather_Sprinkler)  
