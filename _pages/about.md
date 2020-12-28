@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 Welcome to my website! This website is primarily to show off my personal projects. If you need more information about me or would like to request a resume, email me at [brandon.guzy@stonybrook.edu](mailto:brandon.guzy@stonybrook.edu)
+## AVR Thermometer
+![A picture of the 4809 Thermometer](https://github.com/bcguzy/bcguzy.github.io/blob/master/images/4809_thermometer.jpg?raw=true)  
+Fall 2020  
+This project was made as part of my Embedded Systems class and uses the ATmega 4809 coded with the AVR instruction set. This project involved using many parts of the ATmega 4809 microprocessor including the analog to digital converter for the temperature sensor, the timer/counters on the chip for interrupts, and of course utilizing the I/O pins. I also learned about reading and using documentation for microprocessors, their instruction sets, and basic components for the circuit. Subroutines provided from the manufacturer were researched and used for multiplication and division of the ADC results to convert them to degrees Celsius. This project made me much more confident in working with embedded systems and using technical documentation.
 
 # Summer 2020: APIs and Hardware Applications
 I spent the summer of 2020 learning how to use APIs. I love the idea of taking the vast amounts of information from the internet and applying it to something new or interesting. I started with the basics of a simple weather website and worked my way up to a plant sprinkler that can adapt to the weather.
