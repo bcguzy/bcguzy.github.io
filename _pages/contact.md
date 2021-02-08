@@ -5,6 +5,7 @@ permalink: /contact/
 author_profile: false
 ---
  
-### Email: [brandon.guzy@stonybrook.edu](mailto:brandon.guzy@stonybrook.edu)  
+### Email: [bcguzy@gmail.com](mailto:bcguzy@gmail.com)  
 ### Github: [github.com/bcguzy](https://github.com/bcguzy)
-### Resume available on Request, email [brandon.guzy@stonybrook.edu](mailto:brandon.guzy@stonybrook.edu)  
+### LinkedIn: [linkedin.com/in/bcguzy](https://www.linkedin.com/in/bcguzy/)
+### Resume available on Request, email [bcguzy@gmail.com](mailto:bcguzy@gmail.com)  
