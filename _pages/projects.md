@@ -8,6 +8,11 @@ author_profile: true
 Fall 2020  
 This project was made as part of my Embedded Systems class and uses the ATmega 4809 coded with the AVR instruction set. This project involved using many parts of the ATmega 4809 microprocessor including the analog to digital converter for the temperature sensor, the timer/counters on the chip for interrupts, and of course utilizing the I/O pins. I also learned about reading and using documentation for microprocessors, their instruction sets, and basic components for the circuit. Subroutines provided from the manufacturer were researched and used for multiplication and division of the ADC results to convert them to degrees Celsius. This project made me much more confident in working with embedded systems and using technical documentation.
 
+## C++ Library Management System
+![A picture of the interface for the library project](https://github.com/bcguzy/bcguzy.github.io/blob/master/images/librarySystem.png?raw=true)
+Fall 2020  
+I worked on this project in a group of 3 creating a system for managing books and users for a library. Some features include the ability to create and delete users, create books and copies of books, check out and in books, using the system clock to keep track of time, and searching books to check out. I worked on the system clock features of the program, the interface for the teacher and librarian user types, and working on file I/O. I also found and fixed several critical bugs like file output not matching the input program and fixing interface issues. I learned a lot about working with a team, managing deadlines, and the C++ language.
+
 ## WiFi Weather Sprinkler  
 ![a picture of the project's board](https://github.com/bcguzy/Weather_Sprinkler/blob/master/photos/wiring.jpg?raw=true)  
 Summer 2020 - [Source Code and Documentation](https://github.com/bcguzy/Weather_Sprinkler)  
